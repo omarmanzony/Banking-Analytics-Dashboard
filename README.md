@@ -172,7 +172,6 @@ The dashboard provides interactive analysis across banking operations using filt
 
 - <a href="Banking%20Analytics%20Dashboard.pbix">Power BI Dashboard</a>
 - <a href="Banking%20Analytics%20Dashboard.pdf">Dashboard PDF</a>
-- <a href="Banking%20Analytics_Data%20Model.jpeg">Data Model Diagram</a>
 
 <h2>Project Outcome</h2>
 
